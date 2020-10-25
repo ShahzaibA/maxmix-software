@@ -13,11 +13,7 @@ namespace MaxMix.Services.Communication
 #if DEBUG
             "0.0.0",
 #endif
-            "1.4.0",
-            "1.4.1",
-            "1.4.2",
-            "1.4.3",
-            "1.4.4"
+            "1.5.0"
         };
 
         public static bool IsCompatible(string version)
